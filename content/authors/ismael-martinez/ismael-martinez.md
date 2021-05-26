@@ -7,6 +7,5 @@ social:
 - title: github
   url: https://github.com/ismaelmar23
 featured: false
-draft: true
 
 ---
