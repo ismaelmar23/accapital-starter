@@ -7,8 +7,8 @@ featured: false
 social:
 - title: github
   url: https://github.com/ismaelmar23
-- title: github
-  url: https://github.com
+- title: twitter
+  url: https://twitter.com/IsmaelAlberto_?s=09
 - title: github
   url: https://github.com
 - title: github
